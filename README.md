@@ -17,9 +17,9 @@
 ### Технологии и среды:
 <div align="start">
     <img src="./img/nodejs.png" width="50" />
-    <img src="./img/expressjs.png" width="50" />
-    <img src="./img/nestjs.png" width="50" />
     <img src="./img/aspnet.png" width="50" />
+    <img src="./img/nestjs.png" width="50" />
+    <img src="./img/expressjs.png" width="50" />
 </div>
 
 ### Инструменты и ПО:
@@ -27,16 +27,16 @@
     <img src="./img/vscode.png" width="50" />
     <img src="./img/vs.png" width="50" />
     <img src="./img/insomnia.png" width="50" />
+    <img src="./img/git.png" width="50" />
     <img src="./img/heidisql.png" width="50" />
     <img src="./img/figma.png" width="50" />
-    <img src="./img/git.png" width="50" />
 </div>
 
 ### Инфраструктура и данные:
 <div align="start">
+    <img src="./img/docker.png" width="50" />
     <img src="./img/mysql.png" width="50" />
     <img src="./img/mongodb.png" width="50" />
-    <img src="./img/docker.png" width="50" />
 </div>
 
 ## Соцсети
