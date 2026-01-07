@@ -18,8 +18,8 @@
 <div align="start">
     <img src="./img/nodejs.png" width="50" />
     <img src="./img/aspnet.png" width="50" />
-    <img src="./img/expressjs.png" width="50" />
     <img src="./img/nestjs.png" width="50" />
+    <img src="./img/expressjs.png" width="50" />
 </div>
 
 ### Инструменты и ПО:
