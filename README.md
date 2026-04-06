@@ -18,12 +18,14 @@
 <div align="start">
     <img src="./img/nodejs.png" width="50" />
     <img src="./img/aspnet.png" width="50" />
+    <img src="./img/fastapi.png" width="50" />
     <img src="./img/nestjs.png" width="50" />
     <img src="./img/expressjs.png" width="50" />
 </div>
 
 ### Инструменты и ПО:
 <div align="start">
+    <img src="./img/linux.png" width="50" />
     <img src="./img/vscode.png" width="50" />
     <img src="./img/vs.png" width="50" />
     <img src="./img/insomnia.png" width="50" />
